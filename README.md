@@ -1,6 +1,6 @@
 # battery_data_tools
-
-This is a collection of battery data analysis tools to help users analyze battery test data, associated with the DOE Vehicle Technologies Office battery data storage and sharing tool [Batterydata.energy.gov](https://batterydata.energy.gov/).
+[doe-eere-logo](assets/doe-eere-logo.png) [battery-header](assets/battery-header.png)
+This is a collection of battery data analysis tools to help users analyze battery test data, associated with the DOE EERE battery data hub, [batterydata.energy.gov](https://batterydata.energy.gov/).
 
 ## Handling battery data
 `ampworks`, battery-data-toolkit, batterydata.energy.gov format definition
