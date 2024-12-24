@@ -1,0 +1,20 @@
+name: battery-data-tools
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - matplotlib
+  - numpy
+  - cvxopt
+  - pandas
+  - scipy
+  - scikit-learn
+  - scikit-image
+  - seaborn
+  - ipykernel
+  - conda-build
+  - pip
+  - pip:
+    - impedance
+    - thevenin
+    - lmfit

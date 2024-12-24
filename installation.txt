@@ -1,0 +1,7 @@
+Initial setup:
+You'll need a package manager, most commonly Anaconda, which will install Python and the supporting packages required.
+Using Anaconda, create the 'battery-data-tools' virtual environment specified in the 'environment.yml' file by running 'conda env create -f environment.yml' in a terminal window after navigating to the top-level directory of the 'battery data tools' repository containing the 'environment.yml' file.
+
+Manual setup of some packages:
+  Hybrid-DRT:
+    See the installation instructions at https://github.com/jdhuang-csm/hybrid-drt. You'll first need to install the Mittag-Leffler package (https://github.com/jdhuang-csm/mittag-leffler), then install the 'hybrid-drt' package. See detailed installation instructions at the links above; in short, each package is installed by cloning the repository, navigating to the top-level directory of each repository (the folder where the 'setup.py' file is contained), and running 'conda develop .' in a terminal window with the 'battery-data-tools' virtual environment activated (or 'pip install .' if you get a ModuleNotFoundError when using 'conda develop .').     

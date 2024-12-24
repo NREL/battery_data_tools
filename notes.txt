@@ -1,0 +1,14 @@
+DC pulse fitting
+	Thevenin
+EIS analysis and modeling
+	(Open source) Impedance.py
+	(Open source) Hybrid-DRT (Distribution of relaxation times / distribution of phasances)
+Differential voltage-capacity analysis
+	(NREL) Ampworks (@Randall, Corey)
+	(INL) Deep learning model from XCEL
+	(Public/closed-source) link to a’lawa
+	(open-source) simple peak fitting using lmfit
+Life prediction
+	(INL) SRE modeling
+	(NREL) Bayesian empirical modeling (@Hassanaly, Malik)
+ 
