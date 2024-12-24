@@ -1,5 +1,5 @@
 # battery_data_tools
-![logo](assets\logo.png)
+![logo](assets/logo.png)
 
 This is a collection of battery data analysis tools to help users analyze battery test data, associated with the DOE EERE battery data hub, [batterydata.energy.gov](https://batterydata.energy.gov/).
 
