@@ -1,8 +1,11 @@
-DC pulse fitting
+DC fitting (pulses and/or relaxation)
 	Thevenin
+	PyBOP
+	empirical model fitting via lmfit
 EIS analysis and modeling
 	(Open source) Impedance.py
 	(Open source) Hybrid-DRT (Distribution of relaxation times / distribution of phasances)
+	PyBOP
 Differential voltage-capacity analysis
 	(NREL) Ampworks (@Randall, Corey)
 	(INL) Deep learning model from XCEL
