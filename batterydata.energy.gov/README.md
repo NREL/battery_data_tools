@@ -5,3 +5,4 @@ This folder contains code used for processing battery data into a common format 
 Example battery data processing code is only in MATLAB.
 
 Plotting code is in Python (used in the Plotly tool) and MATLAB.
+
